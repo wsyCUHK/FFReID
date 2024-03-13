@@ -1,4 +1,11 @@
 # FFReID
+This is the offical implementation of the published papers 'Improving Federated Person Re-Identification through Feature-Aware Proximity and Aggregation'.
+
+P. Zhang, H. Yan, W. Wu, and S. Wang, “Improving Federated Person Re-Identification through Feature-Aware Proximity and Aggregation,” ACM International Conference on Multimedia (MM), Ottawa, CAnada, Oct. 2023.
+
+## Run
+
+
 Run the experiments for the test. You just need to replace the ImageNet pre-trained model in the test folder with our trained model.
 ```
 python test.py
